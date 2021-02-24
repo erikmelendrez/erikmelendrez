@@ -1,5 +1,6 @@
-### Hi there 👋
+![](https://images.cooltext.com/5508512.png)
 
+### Hi there 👋
 <!--
 **erikmelendrez/erikmelendrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
