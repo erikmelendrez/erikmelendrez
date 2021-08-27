@@ -19,11 +19,11 @@
 | 10:00    |                                 |                                 |                                 |                                 |                            |    K   |    K    |
 | 11:00    |                                 |                                 |                                 |                                 |                            |    I   |    I    |
 | 12:00    |                                 |                                 |                                 |                                 |                            |    N   |    N    |
-| 13:00    | Taller de investigación         | Taller de investigación         | Taller de investigación         | Taller de investigación         |                            |    G   |    G    |
-| 14:00    | Lenguajes de interfaz           | Lenguajes de interfaz           | Lenguajes de interfaz           | Lenguajes de interfaz           |                            |    W   |    W    |
-| 15:00    | Taller de S.O.                  | Taller de S.O.                  | Taller de S.O.                  | Taller de S.O.                  |                            |    O   |    O    |
-| 16:00    | Patrones de Diseños             | Patrones de Diseños             | Patrones de Diseños             | Patrones de Diseños             | Patrones de Diseños        |    R   |    R    |
-| 17:00    | Conmutación y Enrutamiento      | Conmutación y Enrutamiento      | Conmutación y Enrutamiento      | Conmutación y Enrutamiento      | Conmutación y Enrutamiento |    K   |    K    |
-| 18:00    | Análisis Avanzados              | Análisis Avanzados              | Análisis Avanzados              | Análisis Avanzados              | Análisis Avanzados         |    I   |    I    |
-| 19:00    | Programacion Logica y Funcional | Programacion Logica y Funcional | Programacion Logica y Funcional | Programacion Logica y Funcional |                            |    N   |    N    |
+| 13:00    |                                 |                                 |                                 |                                 |                            |    G   |    G    |
+| 14:00    | Inteligencia Artificial         | Inteligencia Artificial         | Inteligencia Artificial         | Inteligencia Artificial         |Gestión de proyectos de software|    W   |    W    |
+| 15:00    | Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software|    O   |    O    |
+| 16:00    | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2  |    R   |    R    |
+| 17:00    | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables      |    K   |    K    |
+| 18:00    |                                 |                                 |                                 |                                 |                            |    I   |    I    |
+| 19:00    |                                 |                                 |                                 |                                 |                            |    N   |    N    |
 | 20:00    |                                 |                                 |                                 |                                 |                            |    G   |    G    |
