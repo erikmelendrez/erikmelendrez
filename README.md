@@ -13,17 +13,17 @@
 
 | Dia/Hora | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                    | Sábado | Domingo |
 |----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|----------------------------|--------|---------|
-| 7:00     |                                 |                                 |                                 |                                 |                            |    W   |    W    |
-| 8:00     |                                 |                                 |                                 |                                 |                            |    O   |    O    |
-| 9:00     |                                 |                                 |                                 |                                 |                            |    R   |    R    |
-| 10:00    |                                 |                                 |                                 |                                 |                            |    K   |    K    |
-| 11:00    |                                 |                                 |                                 |                                 |                            |    I   |    I    |
-| 12:00    |                                 |                                 |                                 |                                 |                            |    N   |    N    |
-| 13:00    |                                 |                                 |                                 |                                 |                            |    G   |    G    |
-| 14:00    | Inteligencia Artificial         | Inteligencia Artificial         | Inteligencia Artificial         | Inteligencia Artificial         |Gestión de proyectos de software|    W   |    W    |
-| 15:00    | Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software|    O   |    O    |
-| 16:00    | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2  |    R   |    R    |
-| 17:00    | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables      |    K   |    K    |
-| 18:00    |                                 |                                 |                                 |                                 |                            |    I   |    I    |
-| 19:00    |                                 |                                 |                                 |                                 |                            |    N   |    N    |
-| 20:00    |                                 |                                 |                                 |                                 |                            |    G   |    G    |
+| 7:00     |                                 |                                 |                                 |                                 |                            |       |        |
+| 8:00     |                                 |                                 |                                 |                                 |                            |       |        |
+| 9:00     |                                 |                                 |                                 |                                 |                            |       |        |
+| 10:00    |                                 |                                 |                                 |                                 |                            |       |        |
+| 11:00    |                                 |                                 |                                 |                                 |                            |       |        |
+| 12:00    |                                 |                                 |                                 |                                 |                            |       |        |
+| 13:00    |                                 |                                 |                                 |                                 |                            |       |        |
+| 14:00    | Inteligencia Artificial         | Inteligencia Artificial         | Inteligencia Artificial         | Inteligencia Artificial         |Gestión de proyectos de software|       |        |
+| 15:00    | Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software| Gestión de proyectos de software|       |        |
+| 16:00    | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2       | Taller de investigación 2  |       |        |
+| 17:00    | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables      |       |        |
+| 18:00    |                                 |                                 |                                 |                                 |                            |       |        |
+| 19:00    |                                 |                                 |                                 |                                 |                            |       |        |
+| 20:00    |                                 |                                 |                                 |                                 |                            |       |        |
